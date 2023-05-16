@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayn1998&label=Profile%20views&color=0e75b6&style=flat" alt="rayn1998" /> </p>
 
-- 🌱 I’m currently learning **React Express NodeJS**
+- 🌱 I’m currently learning **React Express NodeJS Redux Toolkit**
 
 - 💬 Ask me about **React, NodeJS**
 
