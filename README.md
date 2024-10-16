@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yuriy</h1>
-<h3 align="center">Frontend developer and Rust developera</h3>
+<h3 align="center">Rust developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayn1998&label=Profile%20views&color=0e75b6&style=flat" alt="rayn1998" /> </p>
 
