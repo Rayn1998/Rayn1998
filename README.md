@@ -13,7 +13,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> </a> <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://spontoreau.gallerycdn.vsassets.io/extensions/spontoreau/rust-vsts/1.2.0/1552297281225/Microsoft.VisualStudio.Services.Icons.Default" alt="rust" width="40" height="40"/> </a></p>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> </a> <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/rust-1.png" alt="rust" width="40" height="40"/> </a></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayn1998&show_icons=true&locale=en&layout=compact" alt="rayn1998" /></p>
 
