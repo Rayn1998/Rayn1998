@@ -12,5 +12,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayn1998&show_icons=true&locale=en&layout=compact" alt="rayn1998" /></p>
 
 <p>&nbsp;<img align="center" width='400' src="https://github-readme-stats.vercel.app/api?username=rayn1998&show_icons=true&locale=en" alt="rayn1998" /></p>
-
-<p><img align="center" width='400' src="https://github-readme-streak-stats.herokuapp.com/?user=rayn1998&theme=default" alt="rayn1998" /></p>
